@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+
+target/
+*.class
+*.log
+
+.idea/
+.vscode/
+*.iml
+
+.DS_Store
+Thumbs.db
+
+uploads/
+secrets/
